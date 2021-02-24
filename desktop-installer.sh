@@ -1,3 +1,7 @@
+#------------------------------------------------------#
+# Sun Desktop Installer v0.5.1
+#------------------------------------------------------#
+# (C) 2021 Morales Research Corporation
 echo "Installing base desktop"
 # Installing base desktop environment which is cinnamon
 pacman -S hsetroot cinnamon
