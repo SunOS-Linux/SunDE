@@ -1,1 +1,25 @@
-
+{
+  "name": "sun-desktop",
+  "version": "0.5.1",
+  "description": "A desktop environment created and developed at Morales Research Corp for Sun/OS Linux and other Arch distros",
+  "main": "index.js",
+  "scripts": {
+    "test": "sun-desktop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunOS-Linux/SunDE.git"
+  },
+  "keywords": [
+    "Sun",
+    "Desktop",
+    "Desktop",
+    "Environment"
+  ],
+  "author": "Morales Research Corporation",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/SunOS-Linux/SunDE/issues"
+  },
+  "homepage": "https://github.com/SunOS-Linux/SunDE#readme"
+}
