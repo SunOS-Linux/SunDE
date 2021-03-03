@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SunOS-Linux/SunDE.git"
+    "url": "git+https://github.com/SunOS-Linux/Sun-Desktop.git"
   },
   "keywords": [
     "Sun",
@@ -19,7 +19,7 @@
   "author": "Morales Research Corporation",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/SunOS-Linux/SunDE/issues"
+    "url": "https://github.com/SunOS-Linux/Sun-Desktop/issues"
   },
-  "homepage": "https://github.com/SunOS-Linux/SunDE#readme"
+  "homepage": "https://github.com/SunOS-Linux/Sun-Desktop#readme"
 }
