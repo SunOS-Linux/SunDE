@@ -1,5 +1,5 @@
 #------------------------------------------------------#
-# Sun Desktop Installer v0.5.1
+# Sun Desktop Installer v0.6.1
 #------------------------------------------------------#
 # (C) 2021 Morales Research Corporation
 echo "Installing base desktop"
